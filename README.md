@@ -1,5 +1,6 @@
 # Simple-NQN-discord-bot
 Simple NQN discord bot created with discord.js version 13.
+<img src="https://cdn.discordapp.com/attachments/952213743717208144/992368653263712297/simple_bot_like_nqn.png"/>
 # Info
 Node version required: `16.6.9` or above.
 Discordjs version `13.7.0`
