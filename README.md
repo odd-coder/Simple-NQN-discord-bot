@@ -15,3 +15,4 @@ You might know to make a discord bot it's take a lot of time and effort to code.
 # Credit
 Creator [Sestro#4472](https://oddcoder.xyz/).<br/>
 Support server [Join us](https://discord.gg/7KtdeePrHV)<br/>
+Youtube Channel [Odd Coder](https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A)
